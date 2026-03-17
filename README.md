@@ -1,95 +1,172 @@
-# SERP Flirt4Free Downloader
+# Flirt4Free Downloader (Browser Extension)
 
-**Record Flirt4Free live streams and download saved videos -- straight from your browser.**
+> Record Flirt4Free live streams and download saved videos as MP4 files from your browser.
 
-SERP Flirt4Free Downloader is a browser extension that captures live streams and downloads recorded videos from Flirt4Free.com. Open any model's room, hit Start to record the live broadcast, or grab saved videos from their gallery. Everything saves as a standard MP4 file. VR streams are fully supported. Three free downloads are included so you can try it before you buy.
+Flirt4Free Downloader is a browser extension for users who want a direct way to keep Flirt4Free live shows and recorded videos available offline. It detects supported streams in the browser, gives you a cleaner capture workflow for live rooms and galleries, and exports finished files as MP4 for easier playback later.
 
-## Why SERP Flirt4Free Downloader?
+- Record active Flirt4Free live broadcasts while they are streaming
+- Download saved videos from supported model gallery pages
+- Preserve supported VR captures with playback-friendly metadata when available
+- Choose from the stream qualities exposed on the page
+- Save MP4 files for easier offline playback and archiving
 
-Flirt4Free streams cannot be saved with a right-click or a generic download tool. The video is delivered in a way that requires real-time capture, and streams are spread across multiple servers that change dynamically. This extension is purpose-built for Flirt4Free. It finds the active stream automatically, captures it segment by segment, and assembles a clean MP4 when you stop. No desktop software, no command-line utilities, no configuration.
+## Links
 
-## Key Features
+- 🚀 Get it here: [Flirt4Free Downloader](https://serp.ly/flirt4free-video-downloader)
+- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/flirt4free-downloader/releases/latest)
+- ❓ Help center: [SERP Help](https://help.serp.co/en/)
+- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/flirt4free-downloader/issues)
+- 💡 Request features: [Feature Requests](https://github.com/serpapps/flirt4free-downloader/issues)
 
-- **Live stream recording** -- Start and stop capture at any time during a live broadcast.
-- **Saved video downloads** -- Download recorded content from any model's video gallery.
-- **Automatic stream detection** -- Locates the active stream across all of Flirt4Free's servers.
-- **Quality selection** -- Choose from every available resolution, sorted highest to lowest.
-- **VR stream support** -- VR broadcasts detected automatically with metadata preserved.
-- **In-page capture button** -- A download button appears directly on the video player.
-- **Right-click menu** -- Start a recording from the context menu without opening the popup.
-- **Download manager** -- Real-time progress with segment count, elapsed time, and speed.
-- **Organized saving** -- Downloads go to a dedicated FLIRT4FREE folder in your Downloads directory.
-- **Cross-browser** -- Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+## Preview
+
+![Flirt4Free Downloader workflow preview](assets/workflow-preview.svg)
+
+## Table of Contents
+
+- [Why Flirt4Free Downloader](#why-flirt4free-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Step-by-Step Tutorial: How to Download Videos from Flirt4Free](#step-by-step-tutorial-how-to-download-videos-from-flirt4free)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Troubleshooting](#troubleshooting)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About Flirt4Free](#about-flirt4free)
+
+## Why Flirt4Free Downloader
+
+Flirt4Free is optimized for live viewing, not for keeping local copies of live sessions or saved clips. The platform uses streaming delivery that generic downloader extensions often fail to handle cleanly, and live content disappears once the show ends.
+
+Flirt4Free Downloader is built specifically for that environment. It focuses on supported room and gallery pages, detects the active media in your browser session, and gives you a simpler way to keep accessible content locally without switching to desktop recording tools or manual stream inspection.
+
+## Features
+
+- Live stream recording for active Flirt4Free rooms
+- Saved video downloads from supported gallery pages
+- VR stream support when compatible media is exposed
+- Quality selection for available resolutions and stream variants
+- In-page controls on supported video pages
+- Popup workflow for starting and managing captures
+- Right-click access for a faster recording flow
+- MP4 output for easier playback and transfer
+- Automatic saving into a dedicated FLIRT4FREE folder
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
 ## How It Works
 
-1. **Install** -- Add SERP Flirt4Free Downloader to your browser from the latest release.
-2. **Browse** -- Go to Flirt4Free.com and open any model's room or video gallery page.
-3. **Capture** -- Click Start to record a live stream, or pick a quality and click Download for a saved video.
-4. **Save** -- The video is saved as an MP4 to your Downloads/FLIRT4FREE folder.
+1. Install the extension from the latest release.
+2. Open Flirt4Free and go to a live room or saved video page.
+3. Start playback so the extension can detect the stream.
+4. Open the popup or use the on-page controls.
+5. Choose the quality or stream option you want.
+6. Record the live session or download the saved video.
+7. Save the final MP4 file locally.
+
+## Step-by-Step Tutorial: How to Download Videos from Flirt4Free
+
+1. Install Flirt4Free Downloader from the latest GitHub release.
+2. Open Flirt4Free and sign in if the page requires account access.
+3. Visit the live room, gallery video, or supported VR page you want to keep.
+4. Let the player load fully and press play.
+5. Click the extension button or the on-page control.
+6. Review the quality options shown by the extension.
+7. For live rooms, start recording and stop it when the show is finished.
+8. For saved videos, click download and wait for the MP4 export to complete.
+9. Open the finished file from your Downloads folder.
 
 ## Supported Formats
 
-| Output | Details |
-|---|---|
-| **MP4** | All captures and downloads are saved as standard MP4 files. |
-| **Multiple qualities** | Every resolution offered by Flirt4Free is available. |
-| **VR video** | VR streams include full metadata for proper VR playback. |
+- Input: Flirt4Free live streams
+- Input: Flirt4Free saved videos
+- Input: Supported Flirt4Free VR streams
+- Output: MP4
 
-Compatible with any modern device, media player, or video editor.
+Saved files use MP4 so they are easier to replay on standard media players, transfer between devices, or archive for later access.
 
 ## Who It's For
 
-- Flirt4Free viewers who want to save live broadcasts for offline watching.
-- Users who prefer a browser-based tool over standalone recording software.
-- Collectors archiving gallery videos in the highest available quality.
-- VR enthusiasts who need properly formatted VR recordings.
+- Flirt4Free viewers who want to keep live rooms before they end
+- Users who want offline access to saved gallery videos
+- VR viewers who want to preserve supported immersive content
+- People archiving content they are permitted to keep
+- Anyone who wants a browser-based workflow instead of manual capture software
 
 ## Common Use Cases
 
-- **Record a live broadcast** -- Capture a show start to finish and watch it later on any device.
-- **Download gallery videos** -- Save recorded content from a model's video page.
-- **Grab the best quality** -- Pick the highest resolution for crisp, clear video.
-- **Save VR content** -- Record VR streams with metadata intact for headset playback.
+- Record a Flirt4Free live broadcast to watch later
+- Download a saved gallery video from a model page
+- Keep local copies of content before it disappears from easy access
+- Save supported VR content for later playback on compatible devices
+- Download the best quality exposed by the page
+
+## Troubleshooting
+
+**The extension is not detecting the stream**  
+Press play first and wait a few seconds so the stream has time to initialize.
+
+**The page control is missing**  
+Open the extension popup directly. Some supported pages work better through the popup UI.
+
+**Only one quality option is listed**  
+That usually means the page is exposing a single playable stream variant.
+
+**The recording stopped too early**  
+Check whether the live session ended or your internet connection dropped during capture.
+
+**The page requires account or paid access**  
+The extension only works on media you can already open and play in your active browser session.
 
 ## Trial & Access
 
-Three free downloads are included -- no credit card required. Sign in with your email to activate the trial. Upgrade to a paid license for unlimited downloads through the product page.
+- Includes **3 free downloads** so you can test the workflow first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the trial
+- Unlimited downloads are available with a paid license
+
+Start here: [https://serp.ly/flirt4free-video-downloader](https://serp.ly/flirt4free-video-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/flirt4free-downloader/releases/latest](https://github.com/serpapps/flirt4free-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install the extension.
+4. Open Flirt4Free and navigate to a live room or saved video.
+5. Use the extension controls to start recording or downloading.
 
 ## FAQ
 
-**How do I record a live stream?**
-Open a model's room while they are broadcasting, select your quality, and click Start. Click Stop when done.
+**Can I record Flirt4Free live streams?**  
+Yes. Active Flirt4Free live rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos from a gallery?**
-Yes. Go to a model's video gallery page, select quality, and click Download.
+**Can I download saved videos too?**  
+Yes. The extension supports saved Flirt4Free gallery videos on supported pages.
 
-**What format are the downloaded videos?**
-Standard MP4 files that play on virtually any device or media player.
+**Does it support VR streams?**  
+Yes, when Flirt4Free exposes compatible VR-capable media for that page.
 
-**Where are my downloads saved?**
-In a FLIRT4FREE subfolder inside your browser's Downloads directory.
+**What file format do downloads use?**  
+Videos are saved as MP4 files.
 
-**Does this support VR streams?**
-Yes. VR broadcasts are detected automatically with metadata preserved.
+**Where are videos saved?**  
+They are saved to your default Downloads location, typically inside a FLIRT4FREE subfolder.
 
-**How many free downloads do I get?**
-Three. Sign in with your email to start. Purchase a license for unlimited use.
+**Do I need extra software?**  
+No. Everything runs through the browser extension.
 
-**Which browsers are supported?**
-Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+## Notes
 
-## Notes (Important)
+- Only download content you own or have explicit permission to save
+- An internet connection is required for live capture and downloads
+- Live recording only works while the creator is actively streaming
+- Some pages may require account access, paid access, or membership
+- VR support depends on the media exposed by Flirt4Free for that stream
 
-- The model must be live and in a public broadcast for live capture to work. Private or offline rooms are not accessible.
-- Video quality depends on what Flirt4Free makes available for a given stream or recording.
-- An internet connection is required for both capture and download.
-- Users are responsible for ensuring they have the right to download content. This extension is intended for downloading content you own or have permission to download.
+## About Flirt4Free
 
-## Get It
-
-**Product page:** [https://serp.ly/flirt4free-video-downloader](https://serp.ly/flirt4free-video-downloader)<br>
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/flirt4free-video-downloader/releases/latest](https://github.com/serpapps/flirt4free-video-downloader/releases/latest)
-
-[![Get SERP Flirt4Free Downloader](https://img.shields.io/badge/Get%20It%20Now-ff4f70?style=for-the-badge&logo=download&logoColor=white)](https://serp.cc/VDM-flirt4free-video-downloader)
+Flirt4Free combines live cam rooms with saved video content, which makes offline access more awkward than on ordinary video platforms. Stream protection, page-specific playback behavior, and live-only access all add friction for users who want a local copy. Flirt4Free Downloader simplifies that workflow inside the browser for users who already have legitimate access to the content.
