@@ -12,15 +12,15 @@ Flirt4Free Downloader is a browser extension for users who want a direct way to 
 
 ## Links
 
-- 🚀 Get it here: [Flirt4Free Downloader](https://serp.ly/flirt4free-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/flirt4free-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/flirt4free-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/flirt4free-downloader/issues)
+- ðŸš€ Get it here: [Flirt4Free Downloader](https://serp.ly/flirt4free-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/flirt4free-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/flirt4free-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/flirt4free-downloader/issues)
 
 ## Preview
 
-![Flirt4Free Downloader workflow preview](assets/workflow-preview.svg)
+![Flirt4Free Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
