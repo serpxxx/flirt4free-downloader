@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "flirt4free-downloader",
   "readme": "../ACTOR.md",
-  "title": "Flirt4free Downloader",
+  "title": "Flirt4Free Downloader Browser Extension",
   "version": "0.0"
 }
