@@ -1,4 +1,4 @@
-# Flirt4Free Downloader Browser Extension
+# Flirt4Free Downloader
 
 > Record Flirt4Free live streams and download saved videos as MP4 files from your browser.
 
