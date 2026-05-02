@@ -9,6 +9,11 @@ Flirt4Free Downloader is a browser extension for users who want a direct way to 
 - Preserve supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
+
+## Get it Here
+
+Get it here: https://serp.ly/flirt4free-video-downloader
+
 ## Table of Contents
 
 - [Why Flirt4Free Downloader](#why-flirt4free-downloader)
