@@ -1,6 +1,12 @@
-# Flirt4Free Downloader
+# Flirt4Free Video Downloader | How to Download Flirt4Free Videos
 
 > Record Flirt4Free live streams and download saved videos as MP4 files from your browser.
+
+## Get it Here
+
+Get it here: https://serp.ly/flirt4free-video-downloader
+
+![Flirt4Free Downloader](https://raw.githubusercontent.com/serpxxx/flirt4free-downloader/main/assets/workflow-preview.webp)
 
 Flirt4Free Downloader is a browser extension for users who want a direct way to keep Flirt4Free live shows and recorded videos available offline. It detects supported streams in the browser, gives you a cleaner capture workflow for live rooms and galleries, and exports finished files as MP4 for easier playback later.
 
@@ -9,11 +15,6 @@ Flirt4Free Downloader is a browser extension for users who want a direct way to 
 - Preserve supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
-
-## Get it Here
-
-Get it here: https://serp.ly/flirt4free-video-downloader
-
 ## Table of Contents
 
 - [Why Flirt4Free Downloader](#why-flirt4free-downloader)
